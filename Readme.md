@@ -34,6 +34,8 @@ A curation of projects worked on by Teknql members as well as recommended tech
   highlighting, git status, line numbers
 - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - `grep` replacement
   :man-running:
+- [`hck`](https://github.com/sstadick/hck) - almost a drop-in replacement for
+  `cut`, with more features
 - [`procs`](https://github.com/dalance/procs) - `ps` replacement
 - [`xh`](https://github.com/ducaale/xh) - `httpie` replacement
 - [`emacs`](https://github.com/emacs-mirror/emacs) - `vim` / `vscode`
