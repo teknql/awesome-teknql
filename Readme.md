@@ -6,16 +6,17 @@ A curation of projects worked on by Teknql members as well as recommended tech
 
 ### Advent of Code
 
-#### 2020
+[Private Leaderboard](https://adventofcode.com/2022/leaderboard/private/view/333067)
+
 
 - [alexdao3](https://github.com/alexdao3/advent-of-code)
-- [the-alex](https://github.com/the-alex/advent-of-code-2020)
+- [the-alex](https://github.com/the-alex/advent-of-code-2020) ([2021](https://github.com/the-alex/advent-2021))
 - [kiranshila](https://github.com/kiranshila/AdventOfCode)
-- [rschmukler](https://github.com/rschmukler/advent-2020)
-- [Camsbury](https://github.com/Camsbury/aoc-2020)
+- [rschmukler](https://github.com/rschmukler/advent-2020) ([2021](https://github.com/rschmukler/advent-2021))
+- [Camsbury](https://github.com/Camsbury/aoc-2020) 
 - [Aleksion](https://github.com/Aleksion/advent-2020)
-- [jskrzypek](https://github.com/jskrzypek/advent-of-code-2020)
-- [russmatney](https://github.com/russmatney/advent-of-code-2020)
+- [jskrzypek](https://github.com/jskrzypek/aoc)
+- [russmatney](https://github.com/russmatney/advent-of-code)
 
 ## Tech
 
